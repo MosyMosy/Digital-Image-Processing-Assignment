@@ -1,0 +1,13 @@
+D:\Work\Revisions\trunk\Arshad\UOK\Semester 1\DIP\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+D:\Work\Revisions\trunk\Arshad\UOK\Semester 1\DIP\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+D:\Work\Revisions\trunk\Arshad\UOK\Semester 1\DIP\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+D:\Work\Revisions\trunk\Arshad\UOK\Semester 1\DIP\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+D:\Work\Revisions\trunk\Arshad\UOK\Semester 1\DIP\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+D:\Work\Revisions\trunk\Arshad\UOK\Semester 1\DIP\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+D:\Work\Revisions\trunk\Arshad\UOK\Semester 1\DIP\ImageEditor\ImageEditor\obj\Debug\ImageEditor.frmMain.resources
+D:\Work\Revisions\trunk\Arshad\UOK\Semester 1\DIP\ImageEditor\ImageEditor\obj\Debug\ImageEditor.frmIntensityTransform.resources
+D:\Work\Revisions\trunk\Arshad\UOK\Semester 1\DIP\ImageEditor\ImageEditor\obj\Debug\ImageEditor.frmSpatialFilter.resources
+D:\Work\Revisions\trunk\Arshad\UOK\Semester 1\DIP\ImageEditor\ImageEditor\obj\Debug\ImageEditor.frmTransformation.resources
+D:\Work\Revisions\trunk\Arshad\UOK\Semester 1\DIP\ImageEditor\ImageEditor\obj\Debug\ImageEditor.HistogramaDesenat.resources
+D:\Work\Revisions\trunk\Arshad\UOK\Semester 1\DIP\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+D:\Work\Revisions\trunk\Arshad\UOK\Semester 1\DIP\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.Cache
